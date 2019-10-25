@@ -3,3 +3,6 @@ An easily accessible resource host which has curated content, relevant posts, co
 
 
 ![Screenshot of IIT Mandi Dashboard](screenshot.png?raw=true "Screenshot of IIT Mandi Dashboard")
+
+
+This project was built for Inter-IIT Tech Meet 2017 Dashboard Event.
